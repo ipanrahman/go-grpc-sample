@@ -28,6 +28,6 @@ make run-server
 make run-client
 ```
 
-# Reference
-<https://grpc.io/docs/languages/go/quickstart/>
-<https://tutorialedge.net/golang/go-grpc-beginners-tutorial/>
+# References
+* <https://grpc.io/docs/languages/go/quickstart/>
+* <https://tutorialedge.net/golang/go-grpc-beginners-tutorial/>
